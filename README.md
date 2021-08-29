@@ -1,4 +1,4 @@
-# projeto_tela
+# projeto_telas
 
 A new Flutter project.
 
